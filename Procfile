@@ -1,0 +1,1 @@
+web: gunicorn garagemprog1.wsgi
